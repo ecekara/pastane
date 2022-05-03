@@ -1,0 +1,6 @@
+D:\Coding\Asp.Net\WinForm\Pastane\WinFormUI\Models\bin\Debug\Models.dll
+D:\Coding\Asp.Net\WinForm\Pastane\WinFormUI\Models\bin\Debug\Models.pdb
+D:\Coding\Asp.Net\WinForm\Pastane\WinFormUI\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\Coding\Asp.Net\WinForm\Pastane\WinFormUI\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Coding\Asp.Net\WinForm\Pastane\WinFormUI\Models\obj\Debug\Models.dll
+D:\Coding\Asp.Net\WinForm\Pastane\WinFormUI\Models\obj\Debug\Models.pdb
